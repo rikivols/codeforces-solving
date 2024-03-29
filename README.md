@@ -1,0 +1,3 @@
+# Codeforces solutions
+
+This project contains solutions to various codeforces problems. They're organized by their topic, like brute force or dynamic programming...
